@@ -2,7 +2,7 @@
 {
   "name": "helo",
   "version": "2.0.0",
-  "description": "Kurasawa Bot Reposietories",
+  "description": "Kurasawa Bot Repositories",
   "main": "pais.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -19,7 +19,7 @@
     "telebot"
   ],
   "author": "Xlaaf",
-  "license": "Apache-2.0",
+  "license": "lcs",
   "bugs": {
     "url": "https://github.com/Xlaaf/helo/issues"
   },
