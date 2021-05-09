@@ -1,7 +1,7 @@
 {
   "name": "helo",
   "version": "1.0.0",
-  "description": "kurasawa bot Repositories",
+  "description": "Kurasawa Bot Repositories",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
